@@ -17,8 +17,8 @@ let package = Package(
         .target(name: "Taghvim", dependencies: ["TaghvimFFI"]),
         .binaryTarget(
             name: "TaghvimFFI",
-            url: "https://github.com/zijcal/zij-dist/releases/download/v1.1.0/Taghvim.xcframework.zip",
-            checksum: "69bccbfe649778265ea360b45ea101ccd551dc79fdee0c62b2d4c24170fe90f2"
+            url: "https://github.com/zijcal/zij-dist/releases/download/v1.1.1/Taghvim.xcframework.zip",
+            checksum: "c45f289c815a258c7f590ce3d7c9fdbd40465799a3d81a379792d559a95ce591"
         ),
     ]
 )
